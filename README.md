@@ -1,2 +1,1 @@
-# julianbetz.github.io
-GitHub pages
+# Welcome to Julian Betz's GitHub pages
